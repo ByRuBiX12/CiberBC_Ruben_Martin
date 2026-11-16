@@ -1,0 +1,19 @@
+{
+  "idPartida": 1,
+  "organizador": "0x5B38Da6a701c568545dCfcB03FcB875f56beddC4",
+  "compromiso": "48274619302847561928374650192837465019283746501928374650192837465",
+  "semilla": "73920185647382910564738291056473829105647382910564738291056473829",
+  "precioCarton": "1000000000000000",
+  "topeBonus": 90,
+  "numCartones": 2,
+  "bolasEnOrden": [27, 4, 61, 13, 75, 9, 44, 38, 18, 56, 21, 83, 32, 68, 50],
+  "cartonGanador": {
+    "idCarton": 1,
+    "dueno": "0xAb8483F64d9C6d1EcF9b849Ae677dD3315835cb2",
+    "numeros": [4, 9, 13, 18, 21, 27, 32, 38, 44, 50, 56, 61, 68, 75, 83]
+  },
+  "bonus": true,
+  "bote": "2000000000000000",
+  "premioGanador": "1800000000000000",
+  "premioOrganizador": "200000000000000"
+}
